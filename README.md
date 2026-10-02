@@ -34,6 +34,12 @@ Sentiment, issue and trend analysis of **~193K ChatGPT app reviews** (Jul 2023 â
 - **Improving over time:** average polarity rose from ~0.37 (Jul 2023) to ~0.48 (Aug 2024)
 - **Complaints shifted:** login issues fell from 31â€“35% of negatives in mid-2023 to ~5% in 2024, while errors, slowness and pricing rose around Jun 2024
 
+## Analysis Preview
+
+### Image_1
+![Dashboard Overview](Analysis_1.png)
+
+
 ## Recommendations
 
 1. Fix login and verification reliability first
