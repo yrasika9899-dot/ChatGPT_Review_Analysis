@@ -49,6 +49,4 @@ Sentiment, issue and trend analysis of **~193K ChatGPT app reviews** (Jul 2023 â
 - Issue themes are keyword-based (~49% of negative reviews match one)
 
 
-Keep `chatgpt_reviews.csv` in the same folder as the notebook.
-
 **Author:** <Your Name> Â· [GitHub](https://github.com/your-username)
