@@ -3,8 +3,6 @@ This project focuses on analyzing customer reviews of ChatGPT. The objective is 
 
 Sentiment, issue and trend analysis of **~193K ChatGPT app reviews** (Jul 2023 – Aug 2024).
 
-**Business question:** What do users think of ChatGPT, what drives negative reviews, and is sentiment improving over time?
-
 **Tools:** Python · pandas · TextBlob · scikit-learn · seaborn · WordCloud
 
 ---
