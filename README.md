@@ -36,9 +36,14 @@ Sentiment, issue and trend analysis of **~193K ChatGPT app reviews** (Jul 2023 â
 
 ## Analysis Preview
 
-### Image_1
-![Dashboard Overview](Analysis_1.png)
+### Sentiment Analysis:
+![Sentiment Analysis](Analysis_1.png)
 
+### Issue Identification:
+![Issue Identification](Analysis_1.png)
+
+### Time Series Analysis:
+![Time-Series Analysis](Analysis_1.png)
 
 ## Recommendations
 
